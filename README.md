@@ -2,9 +2,12 @@
 
 ## :link: Live Demo
 
-[Demo Link](https://trstefan.github.io/react-todo/)
+[Demo Link](https://firebase-todo-two.vercel.app/)
 
 ## 📷 Screenshot
+
+
+<img alt="screenshot" width="100%" src="./src/screenshots/todo.png" />
 
 ## 📝 Project Description
 
